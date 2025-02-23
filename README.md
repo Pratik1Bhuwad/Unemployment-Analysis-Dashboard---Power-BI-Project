@@ -33,7 +33,7 @@ This **Power BI dashboard** provides an interactive and visual representation of
 ## 🏁 **How to Use This Project**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/unemployment-analysis-powerbi.git
+   git clone https://github.com/Pratik1Bhuwad/Unemployment-Analysis-Dashboard---Power-BI-Project.git
    ```
 2. Open the **Power BI (.pbix) file** in **Power BI Desktop**.  
 3. Explore the **interactive visuals, filters, and insights**.  
@@ -41,7 +41,7 @@ This **Power BI dashboard** provides an interactive and visual representation of
 ## 📢 **Let's Connect!**  
 If you find this project interesting or have suggestions for improvements, feel free to connect! 🚀  
 
-🔗 [LinkedIn](your_linkedin_profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pratik-bhuwad-a62576293/)  
 
 ## ⭐ **Contribute**  
 Want to improve this dashboard? Fork this repository, make enhancements, and submit a **pull request**!  
