@@ -23,7 +23,7 @@ This **Power BI dashboard** provides an interactive and visual representation of
 
 ## 🖼 **Project Screenshots**  
 ### 📌 **Dashboard Overview**  
-![Dashboard Screenshot](your_image_link_here)  
+![Dashboard Screenshot](Bi_01.PNG)  
 
 ## 📂 **Dataset Information**  
 - **Source:** [Specify Dataset Source or "Sample Data"]  
